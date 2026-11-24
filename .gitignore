@@ -1,0 +1,9 @@
+data/
+*.mp4
+*.zip
+*.pt
+*.safetensors
+checkpoints/
+.venv/
+__pycache__/
+.env
