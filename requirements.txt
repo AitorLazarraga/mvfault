@@ -1,0 +1,12 @@
+pydantic>=2.6
+opencv-python
+pillow
+numpy
+pytest
+# VLM (portátil / sobremesa con GPU NVIDIA)
+torch            # instalar la versión CUDA desde pytorch.org
+transformers>=4.57
+accelerate
+bitsandbytes     # cuantización 4 bits
+# Datos
+SoccerNet
